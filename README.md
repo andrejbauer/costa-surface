@@ -61,4 +61,3 @@ generating a PovRay `mesh2` object:
         i2,j2,k2
         ...
         iM,jM,kM
-
